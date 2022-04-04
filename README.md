@@ -1,6 +1,8 @@
 # Rotation-of-array-for-k-times-without-new-array
 
- int nums[]={1,2,3,4,5};
+        
+        
+        int nums[]={1,2,3,4,5};
         int k=4;
         
         boolean counter=true;
